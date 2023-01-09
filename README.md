@@ -1,2 +1,2 @@
 <h2>Nordstromrack_Clone_MERN</h2>
-<div>![Screenshot from 2023-01-09 15-02-38](https://user-images.githubusercontent.com/70104100/211277798-8e3f0814-244d-4c68-9429-fb30b879c765.png)</div>
+![Screenshot from 2023-01-09 15-02-38](https://user-images.githubusercontent.com/70104100/211280099-cc3d597d-10a7-444a-a2d4-1dcd60dd9fb7.png)
